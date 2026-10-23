@@ -6,7 +6,7 @@
 >
 > *building stuff for fun*
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Programmer;System +Designer;Gamer;CS +Enjoyer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Programmer;System%20Designer;Gamer;CS%20Enjoyer" alt="Typing SVG" />
 
 </div>
 
