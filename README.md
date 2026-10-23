@@ -80,7 +80,7 @@
       <p><code>Python</code> <code>OPEN SOURCE</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/amctl/jasmine_sprout_nethunter">✦ Compiled a custom kernel</a></h3>
+      <h3><a href="https://github.com/amctl/jasmine_sprout_nethunter">✦ Modified and compiled a custom kernel for Mi A2</a></h3>
       <p>Compiled a custom kernel for jasmine_sprout with nethunter support, also used AnyKernel3 to create a flashable zip file for it.</p>
       <p><code>C</code> <code>OPEN SOURCE</code></p>
     </td>
