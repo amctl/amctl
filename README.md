@@ -105,3 +105,13 @@
   <p><code>build · learn · create · repeat</code></p>
   <sub>Thanks for stopping by. Have a good one.</sub>
 </div>
+
+## <code>> github.snake</code>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/amctl/amctl/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+
+</p>
+
+---
