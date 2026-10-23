@@ -2,27 +2,20 @@
 
 # amctl
 
-> *building stuff for fun*
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Programmer;System%20Designer;Gamer;CS%20Enjoyer" alt="Typing SVG" />
+***free spirit***
 
 </div>
 
 ---
 
 <div align="center">
-
-- I love computers.
-- I love open source.
-- I love programming.
-- I love math.
-
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=40&lines=I+love+computers.;I+love+open+source.;I+love+programming.;I+love+math." alt="I love computers, open source, programming, and math." />
 </div>
 
 ---
 
 ## About
-
+I am a CS student.
 I enjoy building reliable software and understanding how systems work beneath the abstraction layer.
 
 * Systems Programming
