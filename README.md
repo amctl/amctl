@@ -1,6 +1,9 @@
 <div align="center">
 
-# amctl
+<h1 align="center">
+  <img src="./assets/character.gif" height="48" alt="Coder mascot" />
+  amctl
+</h1>
 
 ***free spirit***
 
