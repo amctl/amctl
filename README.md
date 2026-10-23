@@ -96,15 +96,7 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amctl&layout=compact&hide_border=true&title_color=C4B5FD&text_color=D7D4E4&bg_color=0D0B16" alt="Most used languages" />
 </div>
 
-<p align="center"><sub>Stats cards are served by a third-party service and can occasionally hit rate limits. Remove this section if you prefer a profile with no external stats dependency.</sub></p>
-
 <p align="center"><img src="./assets/divider.png" width="100%" alt="Pixel divider" /></p>
-
-<div align="center">
-  <img src="./assets/character.png" height="76" alt="Pixel-art coder and cat" />
-  <p><code>build · learn · create · repeat</code></p>
-  <sub>Thanks for stopping by. Have a good one.</sub>
-</div>
 
 ## <code>> github.snake</code>
 
@@ -114,4 +106,8 @@
 
 </p>
 
----
+<div align="center">
+  <img src="./assets/character.png" height="76" alt="Pixel-art coder and cat" />
+  <p><code>build · learn · create · repeat</code></p>
+  <sub>Thanks for stopping by. Have a good one.</sub>
+</div>
