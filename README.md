@@ -10,10 +10,14 @@
 
 ---
 
-I love computers.
-I love open source.
-I love programming.
-I love math.
+<div align="center">
+
+- I love computers.
+- I love open source.
+- I love programming.
+- I love math.
+
+</div>
 
 ---
 
