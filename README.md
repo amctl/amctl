@@ -2,40 +2,20 @@
 
 # amctl
 
-> **Nullius in verba.**
+> **i like computers**
 >
-> *Take nobody's word for it.*
+> *building stuff for fun*
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Systems+Programmer.;Linux+Enthusiast.;Open+Source+Advocate.;Read+the+source.;Build.+Break.+Learn.+Repeat." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Programmer;System +Designer;Gamer;CS +Enjoyer" />
 
 </div>
 
 ---
 
-```bash
-$ whoami
-amctl
-
-$ uname -o
-GNU/Linux
-
-$ cat philosophy.txt
-Nullius in verba.
-Read the source.
-Simplicity scales.
-
-$ ls interests
-
-backend/
-linux/
-systems/
-networking/
-opensource/
-security/
-
-$ uptime
-Still learning.
-````
+I love computers.
+I love open source.
+I love programming.
+I love math.
 
 ---
 
@@ -49,6 +29,7 @@ I enjoy building reliable software and understanding how systems work beneath th
 * Backend Engineering
 * Open Source
 * Performance & Low-Level Programming
+* Competitive Programming
 
 ---
 
@@ -62,15 +43,6 @@ I enjoy building reliable software and understanding how systems work beneath th
 
 ---
 
-## Philosophy
-
-> "What can be destroyed by the truth should be."
-
-> "Read the source."
-
-> "Per Aspera, Ad Astra."
-
----
 
 ## Stats
 
@@ -84,15 +56,6 @@ I enjoy building reliable software and understanding how systems work beneath th
 
 ---
 
-## Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amctl&theme=github-compact&hide_border=true"/>
-
-</p>
-
----
 
 ## Snake
 
@@ -103,13 +66,3 @@ I enjoy building reliable software and understanding how systems work beneath th
 </p>
 
 ---
-
-<div align="center">
-
-```
-Read the source.
-Question assumptions.
-Build things that last.
-```
-
-</div>
